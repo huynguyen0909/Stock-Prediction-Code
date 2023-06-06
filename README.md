@@ -1,1 +1,1 @@
-# Stock-Prediction-Code
+# Stock-Prediction-Demo and Experiment
